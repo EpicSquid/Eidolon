@@ -1,0 +1,61 @@
+itemGroup.eidolon=Eidolon
+itemGroup.eidolon_parts=Eidolon [Parts]
+itemGroup.eidolon_canvas=Eidolon [Canvas]
+
+tile.engraving_table.name=Engraving Table
+tile.canvas_table.name=Canvas Table
+tile.inkwell.name=Inkwell
+tile.focus_plinth.name=Focus Plinth
+tile.urn.name=Urn
+tile.planter.name=Planter
+tile.assembly_table.name=Assembly Table
+
+tile.weathered_brick.name=Weathered Brick
+tile.weathered_brick_slab.name=Weathered Brick Slab
+tile.weathered_brick_double_slab.name=Weathered Brick Double Slab
+tile.weathered_brick_stairs.name=Weathered Brick Stairs
+tile.weathered_brick_wall.name=Weathered Brick Wall
+
+tile.polished_wood.name=Polished Wood
+tile.polished_wood_slab.name=Polished Wood Slab
+tile.polished_wood_double_slab.name=Polished Wood Double Slab
+tile.polished_wood_stairs.name=Polished Wood Stairs
+tile.polished_wood_wall.name=Polished Wood Wall
+
+item.urn_raw.name=Raw Urn
+item.white_alia_seed.name=White Alia Seeds
+item.sabre.name=Sabre
+item.staff.name=Staff
+item.wood_focus.name=Wooden Focus
+item.jade_seed.name=Jade Seed
+item.jade_plate.name=Jade Plate
+item.jade_captor.name=Jade Captor
+item.jade_gadget.name=Jade Gadget
+item.brush.name=Inkbrush
+item.inkstone.name=Inkstone
+item.wood_plate.name=Wooden Plate
+item.canvas.name=Canvas
+item.jade_focus.name=Jade Focus
+item.top_hat.name=Top Hat
+item.curio_point.name=Point Curio
+item.curio_ward.name=Ward Curio
+item.curio_dash.name=Dash Curio
+item.curio_grasp.name=Grasp Curio
+item.ocula.name=Ocula
+
+item.wood_cap.name=Wood Cap
+item.wood_rod.name=Wood Rod
+item.wood_blade.name=Wood Blade
+item.wood_curl.name=Wood Curl
+item.iron_cap.name=Iron Cap
+item.iron_rod.name=Iron Rod
+item.iron_blade.name=Iron Blade
+item.iron_curl.name=Iron Curl
+
+bauble.whenequipped=When equipped:
+
+eidolon.symbol.prefix=Symbol: 
+eidolon.symbol.unknown.name=Unknown
+eidolon.symbol.shock.name=Shock
+eidolon.symbol.flame.name=Flame
+eidolon.symbol.earth.name=Basaltine

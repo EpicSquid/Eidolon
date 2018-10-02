@@ -1,0 +1,10 @@
+{
+    "variants":{
+        "facing=down":  { "model": "eidolon:engraving_table", "x": 180 },
+        "facing=up":    { "model": "eidolon:engraving_table", "x": 0 },
+        "facing=north": { "model": "eidolon:engraving_table", "y": 180 },
+        "facing=south": { "model": "eidolon:engraving_table", "y": 0 },
+        "facing=west":  { "model": "eidolon:engraving_table", "y": 90 },
+        "facing=east":  { "model": "eidolon:engraving_table", "y": 270 }
+    }
+}

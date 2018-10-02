@@ -1,0 +1,71 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"parent":"block/block",
+	"textures": {
+		"0": "eidolon:blocks/focus_plinth_2",
+		"1": "eidolon:blocks/focus_plinth_1",
+		"particle": "eidolon:blocks/focus_plinth_2"
+	},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [3, 0, 3],
+			"to": [13, 3, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 10, 3], "texture": "#1"},
+				"east": {"uv": [0, 0, 10, 3], "texture": "#1"},
+				"south": {"uv": [0, 0, 10, 3], "texture": "#1"},
+				"west": {"uv": [0, 0, 10, 3], "texture": "#1"},
+				"up": {"uv": [0, 6, 10, 16], "texture": "#1"},
+				"down": {"uv": [0, 6, 10, 16], "texture": "#1"}
+			},
+			"rotation": {
+				"origin": [8, 0, 8],
+				"axis": "y",
+				"angle": 45
+			},
+			"type": "cube"
+		},
+		{
+			"name": "cube",
+			"from": [4, 0.004999999999999893, 4],
+			"to": [12, 3, 12],
+			"faces": {
+				"north": {
+					"uv": [0, 3, 8, 5.9950000762939455],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [0, 3, 8, 5.9950000762939455],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [0, 3, 8, 5.9950000762939455],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [0, 3, 8, 5.9950000762939455],
+					"texture": "#1"
+				},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#0"}
+			},
+			"type": "cube"
+		},
+		{
+			"name": "cube",
+			"from": [4, 3, 4],
+			"to": [12, 6, 12],
+			"faces": {
+				"north": {"uv": [0, 3, 8, 6], "texture": "#1"},
+				"east": {"uv": [0, 3, 8, 6], "texture": "#1"},
+				"south": {"uv": [0, 3, 8, 6], "texture": "#1"},
+				"west": {"uv": [0, 3, 8, 6], "texture": "#1"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#0"}
+			},
+			"type": "cube"
+		}
+	],
+	"display": {}
+}

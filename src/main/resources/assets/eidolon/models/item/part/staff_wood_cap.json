@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"ambientocclusion": false,
+	"textures": {"0": "eidolon:items/part/wood_model"},
+	"elements": [
+        {
+            "name": "cap",
+            "from": [6.5, -9, 7.515625],
+            "to": [9.5, -6, 10.515625],
+            "faces": {
+                "north": {"uv": [0, 4, 1.5, 5.5], "texture": "#0"},
+                "east": {"uv": [0, 4, 1.5, 5.5], "texture": "#0"},
+                "south": {"uv": [0, 4, 1.5, 5.5], "texture": "#0"},
+                "west": {"uv": [0, 4, 1.5, 5.5], "texture": "#0"},
+                "up": {"uv": [0, 4, 1.5, 5.5], "texture": "#0"},
+                "down": {"uv": [0, 4, 1.5, 5.5], "texture": "#0"}
+            },
+            "type": "cube"
+        },
+        {
+            "name": "cap",
+            "from": [6, -13, 7.01],
+            "to": [10, -9, 11.01],
+            "faces": {
+                "north": {"uv": [0, 5.5, 2, 7.5], "texture": "#0"},
+                "east": {"uv": [0, 5.5, 2, 7.5], "texture": "#0"},
+                "south": {"uv": [0, 5.5, 2, 7.5], "texture": "#0"},
+                "west": {"uv": [0, 5.5, 2, 7.5], "texture": "#0"},
+                "up": {"uv": [0, 5.5, 2, 7.5], "texture": "#0"},
+                "down": {"uv": [0, 5.5, 2, 7.5], "texture": "#0"}
+            },
+            "type": "cube"
+        }
+	]
+}

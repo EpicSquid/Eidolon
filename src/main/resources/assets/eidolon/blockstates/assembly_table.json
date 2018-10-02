@@ -1,0 +1,10 @@
+{
+    "variants":{
+        "facing=down":  { "model": "eidolon:assembly_table", "x": 180 },
+        "facing=up":    { "model": "eidolon:assembly_table", "x": 0 },
+        "facing=north": { "model": "eidolon:assembly_table", "y": 180 },
+        "facing=south": { "model": "eidolon:assembly_table", "y": 0 },
+        "facing=west":  { "model": "eidolon:assembly_table", "y": 90 },
+        "facing=east":  { "model": "eidolon:assembly_table", "y": 270 }
+    }
+}

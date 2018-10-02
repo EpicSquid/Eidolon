@@ -1,0 +1,85 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"ambientocclusion": false,
+	"textures": {
+        "0": "eidolon:items/part/wood_model",
+        "particle": "eidolon:items/part/wood_model"
+    },
+    "elements": [
+		{
+			"name": "shaft",
+			"from": [
+				6.490000000000002,
+				0.4999999999999991,
+				7.26
+			],
+			"to": [9.490000000000002, 3.499999999999999, 10.26],
+			"faces": {
+				"north": {"uv": [0, 4, 1.5, 5.5], "texture": "#0"},
+				"east": {"uv": [0, 4, 1.5, 5.5], "texture": "#0"},
+				"south": {"uv": [0, 4, 1.5, 5.5], "texture": "#0"},
+				"west": {"uv": [0, 4, 1.5, 5.5], "texture": "#0"},
+				"up": {
+					"uv": [0, 4, 1.5, 5.5],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"down": {
+					"uv": [0, 4, 1.5, 5.5],
+					"texture": "#0",
+					"rotation": 90
+				}
+			},
+			"type": "cube"
+		},
+		{
+			"name": "shaft",
+			"from": [6.490000000000002, 7.5, 7.26],
+			"to": [9.490000000000002, 10.5, 10.26],
+			"faces": {
+				"north": {"uv": [0, 4, 1.5, 5.5], "texture": "#0"},
+				"east": {"uv": [0, 4, 1.5, 5.5], "texture": "#0"},
+				"south": {"uv": [0, 4, 1.5, 5.5], "texture": "#0"},
+				"west": {"uv": [0, 4, 1.5, 5.5], "texture": "#0"},
+				"up": {
+					"uv": [0, 4, 1.5, 5.5],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"down": {
+					"uv": [0, 4, 1.5, 5.5],
+					"texture": "#0",
+					"rotation": 90
+				}
+			},
+			"type": "cube"
+		},
+		{
+			"name": "shaft",
+			"from": [
+				6.990000000000002,
+				1.9999999999999991,
+				7.76
+			],
+			"to": [8.990000000000002, 7.999999999999999, 9.76],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 3], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 3], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 3], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 3], "texture": "#0"},
+				"up": {
+					"uv": [0, 3, 1, 4],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"down": {
+					"uv": [0, 3, 1, 4],
+					"texture": "#0",
+					"rotation": 270
+				}
+			},
+			"type": "cube"
+		}
+	],
+	"display": {}
+}

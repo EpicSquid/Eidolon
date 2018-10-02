@@ -1,0 +1,10 @@
+{
+    "variants":{
+        "facing=down":  { "model": "eidolon:focus_plinth", "x": 180 },
+        "facing=up":    { "model": "eidolon:focus_plinth", "x": 0 },
+        "facing=north": { "model": "eidolon:focus_plinth", "y": 0 },
+        "facing=south": { "model": "eidolon:focus_plinth", "y": 180 },
+        "facing=west":  { "model": "eidolon:focus_plinth", "y": 270 },
+        "facing=east":  { "model": "eidolon:focus_plinth", "y": 90 }
+    }
+}

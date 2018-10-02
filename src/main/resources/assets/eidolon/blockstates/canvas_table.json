@@ -1,0 +1,16 @@
+{
+    "variants":{
+        "facing=down,paper=false":  { "model": "eidolon:canvas_table", "x": 180 },
+        "facing=up,paper=false":    { "model": "eidolon:canvas_table", "x": 0 },
+        "facing=north,paper=false": { "model": "eidolon:canvas_table", "y": 180 },
+        "facing=south,paper=false": { "model": "eidolon:canvas_table", "y": 0 },
+        "facing=west,paper=false":  { "model": "eidolon:canvas_table", "y": 90 },
+        "facing=east,paper=false":  { "model": "eidolon:canvas_table", "y": 270 },
+        "facing=down,paper=true":  { "model": "eidolon:canvas_table_paper", "x": 180 },
+        "facing=up,paper=true":    { "model": "eidolon:canvas_table_paper", "x": 0 },
+        "facing=north,paper=true": { "model": "eidolon:canvas_table_paper", "y": 180 },
+        "facing=south,paper=true": { "model": "eidolon:canvas_table_paper", "y": 0 },
+        "facing=west,paper=true":  { "model": "eidolon:canvas_table_paper", "y": 90 },
+        "facing=east,paper=true":  { "model": "eidolon:canvas_table_paper", "y": 270 }
+    }
+}
